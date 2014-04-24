@@ -53,6 +53,5 @@ Endpoints:
     Backend: ''
     Options:
       health: true
-Install-Build-Required: false
 
 Source-Url: https://github.com/xiama/perl2.git
