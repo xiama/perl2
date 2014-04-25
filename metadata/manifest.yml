@@ -47,7 +47,7 @@ Endpoints:
   - http
   - ws
   Options:
-    ssl_to_gear: true
+#    ssl_to_gear: true
     primary: true
   Mappings:
   - Frontend: ''
