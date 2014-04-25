@@ -56,4 +56,5 @@ Endpoints:
 
 
 #Source-Url: https://github.com/xiama/perl2.git
-Source-Url: https://github.com/xiama/perl2/raw/master/perl.tar
+#Source-Url: https://github.com/xiama/perl2/raw/master/perl.tar
+Source-Url: https://github.com/xiama/perl2/raw/master/perl2.tar
