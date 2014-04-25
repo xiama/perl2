@@ -74,4 +74,5 @@ Version-Overrides:
 #    - python(version) = 3.3
 #
 #
+Install-Build-Required: false
 Source-Url: https://github.com/xiama/perl2.git
